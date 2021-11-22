@@ -40,7 +40,7 @@ resources:
 #- argocd/operators/ibm-automation-foundation-operator.yaml
 
 ## IBM Catalogs
-#- argocd/operators/ibm-catalogs.yaml
+- argocd/operators/ibm-catalogs.yaml
 
 
 # Required for IBM MQ
@@ -73,6 +73,7 @@ resources:
 
 # Monitoring
 #- argocd/instances/instana-agent.yaml
+- argocd/instances/instana-robot-shop.yaml
 
 # Spectrum Protect Plus
 #- argocd/operators/spp-catalog.yaml
