@@ -35,8 +35,8 @@ spec:
               gateway: null
 
             eum:
-              key: null
-              url: https://ec2-3-22-248-37.us-east-2.compute.amazonaws.com
+              key: HrCYfudaR6uB-m70rCoomw
+              url: http://52.116.51.73:2999
               #url: https://eum-us-west-2.instana.io
 
             psp:
